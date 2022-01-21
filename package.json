@@ -50,7 +50,7 @@
     "sweetalert2": "^11.1.4",
     "unsplash-js": "^7.0.15",
     "uuid": "^8.3.2",
-    "web-vitals": "^1.1.2",
+    "web-vitals": "^2.1.4",
     "yup": "^0.32.9"
   },
   "scripts": {
