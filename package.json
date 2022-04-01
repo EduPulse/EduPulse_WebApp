@@ -37,7 +37,7 @@
     "react-modal": "^3.14.3",
     "react-multi-select-component": "^4.1.12",
     "react-player": "^2.9.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "^4.0.3",
     "react-simple-image-slider": "^2.1.2",
     "react-slideshow-image": "^3.5.0",
@@ -79,7 +79,7 @@
   },
   "devDependencies": {
     "axios": "^0.21.1",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.3.0",
     "yup": "^0.32.9"
   }
 }
