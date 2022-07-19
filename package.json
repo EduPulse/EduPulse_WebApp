@@ -22,7 +22,7 @@
     "jss-plugin-extend": "^10.7.1",
     "link-preview-js": "^2.1.8",
     "material-ui-dropzone": "^3.5.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.9",
     "node-sass": "^6.0.1",
     "nodemon": "^2.0.12",
     "react": "^17.0.2",
